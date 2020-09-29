@@ -1,5 +1,5 @@
 # helloword
 
-Esse é meu primeiro codigo no github
+Esse é meu primeiro projeto JS
 
 by Natan Moraes
